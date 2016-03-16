@@ -1,6 +1,6 @@
 # PHP.net OOP5
 
-Working my way through the OOP5 examples on [php.net])(http://us3.php.net/manual/en/language.oop5.php)
+Working my way through the OOP5 examples on [php.net](http://us3.php.net/manual/en/language.oop5.php)
 
 My goals are to gain a better understanding of the OOP standards in modern PHP as well as work on my ability to navigate 
 PHPStorm effectively.  I'm working towards setting my PHPStorm keymap to mimic Atom as closely as possible while still
